@@ -1,6 +1,6 @@
 # Hospital-Management-System
 
-<h1 align="left">Hospital Management System<br>DBMS PROJECT</h1>
+<h1 align="left">DBMS PROJECT</h1>
 
 ###
 
