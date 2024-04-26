@@ -8,7 +8,7 @@ DBMS PROJECT
 
 ###
 
-<h2 align="left">TECHNOLOGIES USED</h2>
+TECHNOLOGIES USED:
 
 ###
 
